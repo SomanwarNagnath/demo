@@ -1,4 +1,4 @@
 # demo
 this is my first Git  Repository
 <br>
-author - nagnath
+author - nagnath (learner)
